@@ -1,0 +1,3 @@
+function shareFB(url){var popUp=window.open('http://www.facebook.com/sharer.php?u='+url,'popupwindow','scrollbars=yes,width=800,height=400');popUp.focus();return false;}
+function shareTW(url){var popUp=window.open('http://twitter.com/home?status='+url+' @siteEquiz','popupwindow','scrollbars=yes,width=800,height=400');popUp.focus();return false;}
+function shareWhatsapp(url){window.location.href="whatsapp://send?text=" + url;}

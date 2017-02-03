@@ -1,0 +1,33 @@
+#blanked-box-equiz {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	background: #000;
+	opacity: 0.7;
+	-moz-opacity: 0.7;
+	cursor: pointer;
+	z-index: 99999;
+}
+#box-equiz {
+	position: absolute;
+	left: 50%;
+	margin-left: -172px;
+	top: 50%;
+	margin-top: -108px;
+	background: #fff;
+	width: 345px;
+	height: 217px;
+	cursor: pointer;
+	z-index: 9999999;
+}
+@media (max-width: 780px) {
+	#box-equiz {
+		left: 5%;
+		right: 5%;
+		top: 30%;
+		margin-left: 0;
+		width: 90%;
+	}
+}
