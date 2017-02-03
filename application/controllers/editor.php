@@ -12,7 +12,7 @@ class Editor extends CI_Controller
 		$this->load->model('usuarios_model');
 		$this->load->library('guid');
 		
-		$this->base_url = 'http://equiz.dev/';
+		$this->base_url = 'http://testequizagora.com/';
 		define('BASE_URL_ADMIN', $this->base_url);
 	}
 	public function index()
