@@ -13,7 +13,7 @@ window.addEventListener('load', function()
 			data.setTime(data.getTime() + (60*60*1000));
 			document.cookie = "clicouquiz=1; expires="+data.toUTCString()+"; path=/"; */
 			
-			window.open('http://www.equiz.com.br', '', "width=1024, height=768, left=0, top=0, resizable=yes, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no");
+			window.open('http://testequizagora.com', '', "width=1024, height=768, left=0, top=0, resizable=yes, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no");
 			window.focus();
 			document.getElementById('box-equiz').style.display = 'none';
 			document.getElementById('blanked-box-equiz').style.display = 'none';
@@ -25,7 +25,7 @@ window.addEventListener('load', function()
 			data.setTime(data.getTime() + (60*60*1000));
 			document.cookie = "clicouquiz=1; expires="+data.toUTCString()+"; path=/"; */
 			
-			window.open('http://www.equiz.com.br', '', "width=1024, height=768, left=0, top=0, resizable=yes, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no");
+			window.open('http://testequizagora.com', '', "width=1024, height=768, left=0, top=0, resizable=yes, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no");
 			window.focus();
 			document.getElementById('box-equiz').style.display = 'none';
 			document.getElementById('blanked-box-equiz').style.display = 'none';

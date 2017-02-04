@@ -48,5 +48,5 @@
     </div><!-- headerbar -->
     
     <div class="pageheader">
-      <h2><i class="fa fa-home"></i> Painel do Editor - www.equiz.com.br</h2>
+      <h2><i class="fa fa-home"></i> Painel do Editor - testequizagora.com</h2>
     </div>

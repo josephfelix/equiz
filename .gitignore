@@ -1,3 +1,5 @@
+.idea
+.htaccess
 *.sql
 static
 application/config/database.php

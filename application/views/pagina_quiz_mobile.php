@@ -268,7 +268,7 @@
 </div>
 <script>
 var quiz_id				= <?=$quiz->id?>;
-var quiz_url    		= "http:\/\/www.equiz.com.br\/quiz\/<?=$quiz->categoria?>\/<?=$quiz->guid?>";
+var quiz_url    		= "http:\/\/testequizagora.com\/quiz\/<?=$quiz->categoria?>\/<?=$quiz->guid?>";
 window.resposta         = '<?=$resposta ? htmlentities($resposta):''?>';
 
 $(window).scroll(function(){
