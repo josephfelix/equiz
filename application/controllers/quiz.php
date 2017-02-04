@@ -41,8 +41,7 @@ class Quiz extends CI_Controller
 				if ( $resposta )
 					$meta_tags = $this->resultados_usuario_model->pegar_resultado(array('id' => $resposta));
 				
-				//if ( !$this->mobile_detect->isMobile() && !$this->mobile_equiz->detect() )
-				if (false)
+				if ( !$this->mobile_detect->isMobile() && !$this->mobile_equiz->detect() )
 					$this->load->view('pagina_quiz', array(
 						'quiz' => $quiz,
 						'questoes' => $questoes,
