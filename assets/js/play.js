@@ -16,6 +16,7 @@ $('#bottomshare').hide();
 if ( msg.status == 'OK' )
 {
 	window.resposta = msg.resposta;
+	window.resposta_usuario = msg.titulo;
 	$('#descricao-resultado').html(msg.descricao);
 	$('#quiz .quiz-result > h1').html(msg.titulo+'<div class="fb-like" data-href="https://www.facebook.com/siteEquiz" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>');
 	$('#quiz .quiz-result div.image').css('background-image',' url("'+BASE_URL+'static/'+msg.capa+'")');	
