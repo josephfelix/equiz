@@ -5,22 +5,22 @@
 		<title>TesteQuizAgora | Quiz e Testes de Personalidade</title>
 		<link href="<?=base_url()?>assets/css/quiz.css" media="screen" rel="stylesheet" type="text/css">
 		<script type="text/javascript" src="<?=base_url()?>assets/js/jquery-1.11.3.min.js"></script>
-		<meta name="description" content="No E-Quiz você pode encontrar os mais divertidos quizzes da internet."/>
+		<meta name="description" content="No TesteQuizAgora você pode encontrar os mais divertidos quizzes da internet."/>
 		<meta property="og:type" content="article"/>
-		<meta property="og:title" content="E-Quiz - Sua fonte de quizzes divertidos"/>
+		<meta property="og:title" content="TesteQuizAgora - Sua fonte de quizzes divertidos"/>
 		<meta property="og:url" content="<?=base_url()?>tag/<?=$categoria?>"/>
 		<meta property="og:image" content="<?=base_url()?>assets/img/share_logo.png"/>
 		<meta property="og:image:width" content="600"/>
 		<meta property="og:image:height" content="315"/>
-		<meta property="og:description" content="No E-Quiz você pode encontrar os mais divertidos quizzes da internet."/>
-		<meta property="og:site_name" content="E-Quiz"/>
+		<meta property="og:description" content="No TesteQuizAgora você pode encontrar os mais divertidos quizzes da internet."/>
+		<meta property="og:site_name" content="TesteQuizAgora"/>
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:site" content="@siteEquiz">
 		<meta name="twitter:title" content="Sua fonte de quizzes divertidos">
-		<meta name="twitter:description" content="No E-Quiz você pode encontrar os mais divertidos quizzes da internet.">
+		<meta name="twitter:description" content="No TesteQuizAgora você pode encontrar os mais divertidos quizzes da internet.">
 		<meta name="twitter:image" content="<?=base_url()?>assets/img/share_logo.png">
 		<meta itemprop="name" content="Sua fonte de quizzes divertidos">
-		<meta itemprop="description" content="o E-Quiz você pode encontrar os mais divertidos quizzes da internet.">
+		<meta itemprop="description" content="o TesteQuizAgora você pode encontrar os mais divertidos quizzes da internet.">
 		<meta itemprop="image" content="<?=base_url()?>assets/img/share_logo.png">
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
 		<script>
@@ -44,7 +44,7 @@
 		<div class="content">
 			<div id="topbar">
 				<div class="wrapper">
-					<h1><a href="<?=base_url()?>" title="E-Quiz, sua fonte de testes e quizzes divertidos"><span class="name">E-Quiz</span></a></h1>
+					<h1><a href="<?=base_url()?>" title="TesteQuizAgora, sua fonte de testes e quizzes divertidos"><span class="name">TesteQuizAgora</span></a></h1>
 					<ul id="menu">
 						<li>
 							<a href="#">Pop</a>

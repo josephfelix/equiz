@@ -23,7 +23,7 @@
 		<meta property="og:image:width" content="<?=$quiz_width?>" />
 		<meta property="og:image:height" content="<?=$quiz_height?>" />
 		<meta property="og:description" content="<?=$quiz->descricao?>" />
-		<meta property="og:site_name" content="E-Quiz" />
+		<meta property="og:site_name" content="TesteQuizAgora" />
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:site" content="@siteEquiz" />
 		<meta name="twitter:title" content="<?=$quiz->titulo?>" />
@@ -48,7 +48,7 @@
 		<meta property="og:image:width" content="<?=$quiz_width?>" />
 		<meta property="og:image:height" content="<?=$quiz_height?>" />
 		<meta property="og:description" content="<?=$meta_tags->descricao?>" />
-		<meta property="og:site_name" content="E-Quiz" />
+		<meta property="og:site_name" content="TesteQuizAgora" />
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:site" content="@siteEquiz" />
 		<meta name="twitter:title" content="<?=$meta_tags->titulo?>" />
@@ -91,7 +91,7 @@
 		<div class="content">
 			<div id="topbar">
 				<div class="wrapper">
-					<h1><a href="<?=base_url()?>" title="E-Quiz, sua fonte de testes e quizzes divertidos"><span class="name">E-Quiz</span></a></h1>
+					<h1><a href="<?=base_url()?>" title="TesteQuizAgora, sua fonte de testes e quizzes divertidos"><span class="name">TesteQuizAgora</span></a></h1>
 					<ul id="menu">
 						<li>
 							<a href="#">Pop</a>
