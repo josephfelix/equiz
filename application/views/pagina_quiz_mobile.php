@@ -271,7 +271,7 @@ var quiz_id				= <?=$quiz->id?>;
 var quiz_url    		= "http:\/\/testequizagora.com\/quiz\/<?=$quiz->categoria?>\/<?=$quiz->guid?>";
 window.resposta         = '<?=$resposta ? htmlentities($resposta):''?>';
 window.resposta_usuario = '';
-window.titulo_quiz      = '<?=addslashes(html_entity_decode($quiz->titulo, ENT_NOQUOTES, 'UTF-8'))?>';
+window.titulo_quiz      = '<?=addslashes($quiz->titulo)?>';
 
 $(window).scroll(function(){
     if ($('.trivia .innerquiz').length){

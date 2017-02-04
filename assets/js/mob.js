@@ -8,12 +8,21 @@ function shareTW(url) {
     popUp.focus();
     return false;
 }
+
+function html_entity_decode(str) {
+    var a = document.createElement('a');
+    a.innerHTML = str;
+    return a.text;
+}
+
 function shareWhatsapp(url) {
     var msg = '';
-    if (window.resposta_usuario.length > 0) {
-        msg = 'Eu tirei: ' + window.resposta_usuario + ' e você? ' + window.titulo_quiz + ' - ' + url;
+    var resposta_usuario = html_entity_decode(window.resposta_usuario);
+    var titulo_quiz = html_entity_decode(window.titulo_quiz);
+    if (resposta_usuario.length > 0) {
+        msg = 'Eu tirei: ' + resposta_usuario + ' e você? ' + titulo_quiz + ' - ' + url;
     } else {
-        msg = window.titulo_quiz + ' | Faça o teste e descubra: ' + url;
+        msg = titulo_quiz + ' | Faça o teste e descubra: ' + url;
     }
 
     window.location.href = "whatsapp://send?text=" + encodeURIComponent(msg);

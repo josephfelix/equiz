@@ -69,7 +69,7 @@
 			const CATEGORIA_QUIZ = '<?=$quiz->categoria?>';
 			window.id_resposta = '<?=$resposta ? htmlentities($resposta):''?>';
 			window.resposta_usuario = '';
-			window.titulo_quiz = '<?=addslashes(html_entity_decode($quiz->titulo, ENT_NOQUOTES, 'UTF-8'))?>';
+			window.titulo_quiz = '<?=addslashes($quiz->titulo)?>';
 		</script>
 		<script>
 		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
