@@ -2,7 +2,7 @@
 <html prefix="og: http://ogp.me/ns#">
 	<head>
 		<meta charset="UTF-8">
-		<title>E-Quiz | Quiz e Testes de Personalidade</title>
+		<title>TesteQuizAgora | Quiz e Testes de Personalidade</title>
 		<link href="<?=base_url()?>assets/css/quiz.css" media="screen" rel="stylesheet" type="text/css">
 		<script type="text/javascript" src="<?=base_url()?>assets/js/jquery-1.11.3.min.js"></script>
 		<meta name="description" content="No E-Quiz você pode encontrar os mais divertidos quizzes da internet."/>

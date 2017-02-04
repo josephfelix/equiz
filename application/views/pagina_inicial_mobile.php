@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=320 user-scalable=0, minimal-ui">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
-<title>E-Quiz | Quiz e Testes de Personalidade</title>
+<title>TesteQuizAgora | Quiz e Testes de Personalidade</title>
 <script type="text/javascript" src="<?=base_url()?>assets/js/jquery-1.11.3.min.js"></script>
 <link href="<?=base_url()?>assets/css/mob.css" rel="stylesheet" type="text/css"/>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
