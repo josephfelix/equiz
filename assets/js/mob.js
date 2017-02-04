@@ -20,10 +20,10 @@ function shareWhatsapp(url) {
     var resposta_usuario = html_entity_decode(window.resposta_usuario);
     var titulo_quiz = html_entity_decode(window.titulo_quiz);
     if (resposta_usuario.length > 0) {
-        msg = 'Eu tirei: ' + resposta_usuario + ' e você? ' + titulo_quiz + ' - ' + url;
+        msg = 'Eu tirei: ' + resposta_usuario + ' e você? ' + titulo_quiz + ' - ';
     } else {
-        msg = titulo_quiz + ' | Faça o teste e descubra: ' + url;
+        msg = titulo_quiz + ' | Faça o teste e descubra: ';
     }
 
-    window.location.href = "whatsapp://send?text=" + encodeURIComponent(msg);
+    window.location.href = "whatsapp://send?text=" + encodeURIComponent(msg) + url;
 }
