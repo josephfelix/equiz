@@ -154,8 +154,9 @@
 <a href="#" class="whatsapp-button" title="Compartilhar no whatsapp" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i><span>Compartilhar</span></a>
 </div>
 <p class="text" id="descricao-resultado"></p>
-<div class="fb-like" data-href="https://www.facebook.com/siteEquiz" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
-<!--<div class="comments"><div class="fb-comments" data-width="100%" data-href="<?=base_url()?>quiz/<?=$quiz->categoria?>/<?=$quiz->guid?>" data-numposts="5" data-colorscheme="light"></div></div> !--->
+    <div class="comments">
+        <div class="fb-comments" data-width="100%" data-href="<?=base_url()?>quiz/<?=$quiz->categoria?>/<?=$quiz->guid?>" data-numposts="5" data-colorscheme="light"></div>
+    </div>
 </div>
 <div id="loading">
 <img src="<?=base_url()?>assets/img/big-loader.gif">
