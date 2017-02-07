@@ -222,8 +222,8 @@
 													</div>
 											
 													<p class="text" id="descricao-resultado"></p>
-													<div class="fb-like" data-href="https://www.facebook.com/siteEquiz" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div><div class="comments">
-														<!--<div class="fb-comments fb_iframe_widget" data-width="620" data-href="<?=base_url()?>quiz/<?=$quiz->categoria?>/<?=$quiz->guid?>" data-numposts="5" data-colorscheme="light" fb-xfbml-state="rendered"></div>-->
+                                                    <div class="comments">
+														<div class="fb-comments fb_iframe_widget" data-width="620" data-href="<?=base_url()?>quiz/<?=$quiz->categoria?>/<?=$quiz->guid?>" data-numposts="5" data-colorscheme="light" fb-xfbml-state="rendered"></div>
 													</div>
 												</div>
 												<div id="loading">
