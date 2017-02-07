@@ -86,8 +86,8 @@
 <!-- Mobile 320 -->
 	<ins class="adsbygoogle"
 		 style="display:inline-block;width:320px;height:50px"
-		 data-ad-client="ca-pub-9971217859444592"
-		 data-ad-slot="5045957267"></ins>
+		  data-ad-client="ca-pub-3626138419406207"
+		 data-ad-slot="7235813975"></ins>
 	<script>
 	(adsbygoogle = window.adsbygoogle || []).push({});
 	</script>
@@ -217,8 +217,8 @@
 		<!-- 300x250 -->
 		<ins class="adsbygoogle"
 			 style="display:inline-block;width:300px;height:250px"
-			 data-ad-client="ca-pub-9971217859444592"
-			 data-ad-slot="7859822861"></ins>
+			  data-ad-client="ca-pub-3626138419406207"
+			 data-ad-slot="7235813975"></ins>
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
@@ -254,8 +254,8 @@
 		<!-- 300x250 -->
 		<ins class="adsbygoogle"
 			 style="display:inline-block;width:300px;height:250px"
-			 data-ad-client="ca-pub-9971217859444592"
-			 data-ad-slot="7859822861"></ins>
+			  data-ad-client="ca-pub-3626138419406207"
+			 data-ad-slot="7235813975"></ins>
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
@@ -352,8 +352,8 @@ function loadMore() {
 <ins class="adsbygoogle"
 	 style="display:none;width:320px;height:50px"
 	 data-reactive-ad-format="1"
-	 data-ad-client="ca-pub-9971217859444592"
-	 data-ad-slot="5045957267"
+	  data-ad-client="ca-pub-3626138419406207"
+	 data-ad-slot="7235813975"
 	 data-ad-channel="GoogleAnchorAd"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});

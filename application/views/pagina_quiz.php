@@ -257,8 +257,8 @@
 									<!-- Sidebar 300x600 -->
 									<ins class="adsbygoogle"
 										 style="display:inline-block;width:300px;height:600px"
-										 data-ad-client="ca-pub-9971217859444592"
-										 data-ad-slot="8250102469"></ins>
+										  data-ad-client="ca-pub-3626138419406207"
+										 data-ad-slot="7235813975"></ins>
 									<script>
 									(adsbygoogle = window.adsbygoogle || []).push({});
 									</script>
