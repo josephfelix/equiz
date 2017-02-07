@@ -246,13 +246,6 @@
 							
 							<div class="side2">
 								<div class="sidebox ads social" style="float:right;width: 300px;">
-									<div class="fb-page" data-href="https://www.facebook.com/siteEquiz" data-width="300" data-height="50" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/siteEquiz"><a href="https://www.facebook.com/siteEquiz">Facebook</a></blockquote></div></div>
-									<hr>
-									<h3>Nossas redes sociais</h3>
-									<a href="https://www.facebook.com/siteEquiz" target="_blank" class="button fbpage">Siga Nosso Facebook</a><a href="https://twitter.com/twitter" target="_blank" class="button twpage">Siga Nosso Twitter</a>
-									
-									<hr />
-									<br />
 									<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 									<!-- Sidebar 300x600 -->
 									<ins class="adsbygoogle"

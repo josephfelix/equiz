@@ -45,9 +45,6 @@
 	<span class="menu-button"><i></i></span>
 	<div class="name">
 		TesteQuizAgora
-		<div class="facebook-like-btn">
-			<div class="fb-like" data-href="https://www.facebook.com/siteEquiz" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
-		</div>
 	</div>
 </div>
 <div id="overlay"></div>
@@ -165,40 +162,9 @@
 </div>
 </div>
 </div>
-<script>
-/* var scrollPage = 2;
-var scrollTmp = true;
-$(document).ready(function(){
-	$(window).scroll(function(){
-		if ($(window).scrollTop() > $(document).height() - $(window).height() - 800){
-			if(scrollTmp){
-				scrollTmp = false;
-				loadMore();
-			}
-		}
-	});
-});
-function loadMore() {
-	$('#main-loader').show();
-	$.ajax({
-		type 	: "POST",
-		url		: "<?=base_url()?>quiz/load",
-		data 	: {page:scrollPage},
-		dataType: 'json',
-		success : function(response){
-			if(response.value!=''){
-				scrollTmp = true;
-				scrollPage++;
-				$('#main-loader').before(response.value);
-			}
-			$('#main-loader').hide();
-		}
-	});
-} */
-</script> </div>
+</div>
 <script type='application/javascript' src='<?=base_url()?>assets/js/fc.min.js'></script>
 <script type="text/javascript" src="<?=base_url()?>assets/js/mob.js"></script>
-<div id="fb-root"></div>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Mobile 320 -->

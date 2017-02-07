@@ -44,9 +44,6 @@
 	<span class="menu-button"><i></i></span>
 	<div class="name">
 		TesteQuizAgora
-		<div class="facebook-like-btn">
-			<div class="fb-like" data-href="https://www.facebook.com/siteEquiz" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
-		</div>
 	</div>
 </div>
 <div id="overlay"></div>
